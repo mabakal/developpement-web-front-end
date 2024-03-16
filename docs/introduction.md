@@ -32,5 +32,5 @@
             <p>C'est la section ou se trouve ton code, la stucture de ta page, tu la personnalise selon l'objectif que tu veux atteindre, par exemple, mettre les imgaes, vidéos affiché les tableaux etc</p>
         </li>
      </ul>
-     
+    Cré un fichier dont l'extension est html, met le code dans ce fichier et ouvre ce fichier avec ton navigateur et tu veras le résultat
 </p>
