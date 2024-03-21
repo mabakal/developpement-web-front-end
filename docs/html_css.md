@@ -1,0 +1,10 @@
+<h5>Comprendre le HTML &amp; CSS et la différence entre ces deux</h5>
+    <p>
+        En tant que développeur web frontend, le HTML et le CSS te sont indispensables. C'est avec ces deux langages que tu écris les pages web. Je vais t'expliquer ici ce qu'est le <em>HTML et le CSS</em>. Puisque l'informatique est la science de l'automatisation des systèmes, nous devons comprendre ces deux langages par une explication simple. <br>
+        Retournons sur les bancs de l'école primaire. Imagine-toi en train de recopier un texte au tableau. Le texte est bien structuré, il y a un titre principal, des sous-titres, des paragraphes et des listes numérotées ect. Tu n'es pas le seul à recopier le texte ; à côté de toi, ton camarade recopie le même texte avec les mêmes structures que je viens de préciser. À la fin, quand vous avez tous les deux fini de recopier le texte, chacun voit le travail que l'autre a fait.
+        Vous remarquez que vous avez recopié le même texte, ayant les mêmes structures mais les styles sont différents. Ton camarade a un style qui diffère du tien, la taille de certains paragraphes et leur style sont propres à chacun de vous. <br>
+        Maintenant revenons au développement web frontend. Votre feuille de papier est votre page web. Sur cette page, il y a du texte (titres, paragraphes, etc.), des vidéos, des images et tout autre élément que vous voyez sur les pages. C'est le rôle du <em>HTML</em> est de définir la structure de la page web, les éléments qui doivent s'y trouver. <br>
+        Le CSS, quant à lui, spécifie le style que prennent ces éléments sur votre page. La manière dont ces éléments sont placés, la police des textes et leurs couleurs, etc. <br>
+        Ces langages sont indissociables ; le CSS est appliqué aux éléments HTML. Le HTML désigne <em>Hypertext Markup Language</em> ; il fait partie de la gamme de langages qu'on appelle les langages de balisage, comme le XML par exemple. Le CSS, <em>Cascading Style Sheets</em>, signifie <em>feuilles de style en cascade</em>.
+        Maintenant, nous allons voir de plus près le HTML et le CSS.
+    </p>
